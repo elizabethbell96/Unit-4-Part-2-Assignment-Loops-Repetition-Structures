@@ -3,6 +3,13 @@
 #include <ios> //provides ios_base::failure
 #include <sstream> //for string manipulation and comparison
 using namespace std;
+/*
+Liz Bell
+COSC 1436 57002
+Repl.it
+This program will take the users input and output "Hello" with counting numbers that have correctly assigned ordinal suffixes
+*/
+
 
 
 // This is a function that tells the program the correct ordinal suffix to apply to a number.
